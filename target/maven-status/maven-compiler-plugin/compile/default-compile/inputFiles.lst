@@ -1,0 +1,15 @@
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/Menu.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/Connexion.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/FabriqueVues.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/Terminal/ConnexionTerminalImpl.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/Terminal/EnvoiMessageTerminalImpl.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/EnvoiMessage.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/Terminal/InscriptionTerminalImpl.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/Programme/Main.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/Programme/FabriqueFacadeApplicationMessagerieImpl.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/Terminal/AccueilTerminalImpl.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/Terminal/MenuTerminalImpl.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/Accueil.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/Inscription.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/Control/Controleur.java
+/home/etudiant2/Documents/applicationmessagerie/src/main/java/View/Terminal/FabriqueVueTerminalImpl.java
